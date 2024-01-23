@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Himesha_pathirana</h1>
-<h3 align="center">I AM A WEB DEVELOPER & UI/UX DESIGNER 👩‍🎓</h3>
+<h3 align="center">I AM A DevOps engineer, web dev and love to do ui/ux designs   👩‍🎓</h3>
 <img aligh="center" alt="codeing" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 
 
