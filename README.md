@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @htpathirana
-- 👀 I’m interested in web development & UI/UX Design.
+- 👀 I’m interested in DevOps| Mobile App development & UI/UX Design.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking collaborators.
 
