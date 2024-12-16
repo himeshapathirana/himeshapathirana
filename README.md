@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Himesha_pathirana</h1>
-<h3 align="center">I am DevOps engineer, web dev and love to do ui/ux designs   👩‍🎓</h3>
+<h3 align="center">I am DevOps engineer, mobile/web dev and love to do ui/ux designs   👩‍🎓</h3>
 <img aligh="center" alt="codeing" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 
 
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **AI course**
 
-- 📫 How to reach me **pathiranathimesha@gmail.com**
+- 📫 How to reach me **pathiranathimesha2021@gmail.com**
 
 - ⚡ Fun fact **may be funny😉**
 
