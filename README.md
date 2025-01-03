@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **AI and Advanced Computer Science concepts**
 - 👀 I’m interested in **DevOps**, **Mobile App Development**, and **UI/UX Design**
 - 📫 How to reach me: **pathiranathimesha2021@gmail.com**
-- 🌐 My Portfolio: [himeshapathirana.github.io/HimeshaPortfolio](https://himeshapathirana.github.io/HimeshaPortfolio/)
+- 🌐 My Portfolio: [HimeshaPathiranaWeb](https://himeshapathirana.github.io/HimeshaPortfolio/)
 - ⚡ Fun fact: **I might surprise you with my humor! 😉**
 
 ---
